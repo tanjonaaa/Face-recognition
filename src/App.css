@@ -1,0 +1,11 @@
+.left {
+  position: relative;
+}
+
+.left img {
+  position: absolute;
+}
+
+.left canvas {
+  position: absolute;
+}
